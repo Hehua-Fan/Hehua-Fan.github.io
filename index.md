@@ -9,7 +9,7 @@ I'm currently an <a href="https://www.dins.pitt.edu/academics/master-science-inf
 
 
 ## Research Interests
-- **Natural Language Processing:** Large Language Model, Fine-tuning, Conversational AI, NLP for Healthcare
+- **Natural Language Processing:** Large Language Model, Fine-tuning, Conversational AI
 - **Information Retrieval:** Semantic Search, Retrieval Augmented Generation
 - **Recommendation Systems:** Social Recommendation Systems, Personalization and User Modeling
 - **Data Science:** Big Data Analytics, Predictive Analytics, Anomaly Detection
